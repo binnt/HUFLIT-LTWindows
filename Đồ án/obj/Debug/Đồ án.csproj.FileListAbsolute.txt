@@ -1,0 +1,12 @@
+D:\Đồ án TT\Đồ án\Đồ án\bin\Debug\Đồ án.exe.config
+D:\Đồ án TT\Đồ án\Đồ án\bin\Debug\Đồ án.exe
+D:\Đồ án TT\Đồ án\Đồ án\bin\Debug\Đồ án.pdb
+D:\Đồ án TT\Đồ án\Đồ án\obj\Debug\Đồ_án.Form1.resources
+D:\Đồ án TT\Đồ án\Đồ án\obj\Debug\Đồ_án.Properties.Resources.resources
+D:\Đồ án TT\Đồ án\Đồ án\obj\Debug\Đồ án.csproj.GenerateResource.cache
+D:\Đồ án TT\Đồ án\Đồ án\obj\Debug\Đồ án.csproj.CoreCompileInputs.cache
+D:\Đồ án TT\Đồ án\Đồ án\obj\Debug\Đồ án.exe
+D:\Đồ án TT\Đồ án\Đồ án\obj\Debug\Đồ án.pdb
+D:\Đồ án TT\Đồ án\Đồ án\bin\Debug\ChiTietKH.mdf
+D:\Đồ án TT\Đồ án\Đồ án\bin\Debug\ChiTietKH_log.ldf
+D:\Đồ án TT\Đồ án\Đồ án\obj\Debug\Đồ án.csprojAssemblyReference.cache
